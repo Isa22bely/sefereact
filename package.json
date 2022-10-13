@@ -1,0 +1,24 @@
+{
+  "name": "oii",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/jest": "^29.1.2",
+    "@types/node": "^18.8.4",
+    "@types/react": "^18.0.21",
+    "@types/react-dom": "^18.0.6",
+    "react-icons": "^4.4.0",
+    "react-router-dom": "^6.4.2",
+    "styled-components": "^5.3.6",
+    "typescript": "^4.8.4"
+  },
+  "devDependencies": {
+    "@types/styled-components": "^5.1.26"
+  }
+}
